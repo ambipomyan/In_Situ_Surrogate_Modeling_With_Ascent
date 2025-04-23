@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/laghos/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/laghos/mfem -I/home/kyan2/ascent/src/examples/proxies/laghos/mfem/fem -I/home/kyan2/ascent/src/examples/proxies/laghos/hypre/src/hypre/include -I/home/kyan2/ascent/src/examples/proxies/laghos/METIS/build/install/include -I/home/kyan2/ascent/src/examples/proxies/laghos/GKlib/build/Linux-x86_64/install/include -I/home/kyan2/ascent/install/ascent-checkout/include/ascent -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -isystem /usr/lib/x86_64-linux-gnu/openmpi/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi  -Wall -Wextra   -fPIE -pthread -o CMakeFiles/laghos_mpi.dir/laghos_assembly.o -c /home/kyan2/ascent/src/examples/proxies/laghos/laghos_assembly.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/laghos/laghos_assembly.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/laghos/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/laghos/mfem -I/home/kyan2/ascent/src/examples/proxies/laghos/mfem/fem -I/home/kyan2/ascent/src/examples/proxies/laghos/hypre/src/hypre/include -I/home/kyan2/ascent/src/examples/proxies/laghos/METIS/build/install/include -I/home/kyan2/ascent/src/examples/proxies/laghos/GKlib/build/Linux-x86_64/install/include -I/home/kyan2/ascent/install/ascent-checkout/include/ascent -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -isystem /usr/lib/x86_64-linux-gnu/openmpi/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi  -Wall -Wextra   -fPIE -pthread -o CMakeFiles/laghos_mpi.dir/laghos.o -c /home/kyan2/ascent/src/examples/proxies/laghos/laghos.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/laghos/laghos.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/laghos/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/laghos/mfem -I/home/kyan2/ascent/src/examples/proxies/laghos/mfem/fem -I/home/kyan2/ascent/src/examples/proxies/laghos/hypre/src/hypre/include -I/home/kyan2/ascent/src/examples/proxies/laghos/METIS/build/install/include -I/home/kyan2/ascent/src/examples/proxies/laghos/GKlib/build/Linux-x86_64/install/include -I/home/kyan2/ascent/install/ascent-checkout/include/ascent -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -isystem /usr/lib/x86_64-linux-gnu/openmpi/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi  -Wall -Wextra   -fPIE -pthread -o CMakeFiles/laghos_mpi.dir/laghos_solver.o -c /home/kyan2/ascent/src/examples/proxies/laghos/laghos_solver.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/laghos/laghos_solver.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/laghos/build/blt/thirdparty_builtin/googletest/googletest",
+  "command": "/usr/bin/c++ -DGTEST_HAS_DEATH_TEST=0 -I/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/include -I/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest  -Wall -Wextra   -fPIC -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.o -c /home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/laghos/build/blt/thirdparty_builtin/googletest/googletest",
+  "command": "/usr/bin/c++ -DGTEST_HAS_DEATH_TEST=0 -I/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/include -I/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest  -Wall -Wextra   -fPIC -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.o -c /home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/laghos/build/blt/tests/smoke",
+  "command": "/usr/bin/c++  -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -Wall -Wextra   -fPIE -pthread -o CMakeFiles/blt_mpi_smoke.dir/blt_mpi_smoke.o -c /home/kyan2/ascent/src/blt/tests/smoke/blt_mpi_smoke.cpp",
+  "file": "/home/kyan2/ascent/src/blt/tests/smoke/blt_mpi_smoke.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/laghos/build/blt/tests/smoke",
+  "command": "/usr/bin/c++ -DGTEST_HAS_DEATH_TEST=0 -I/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/include  -Wall -Wextra   -fPIE -o CMakeFiles/blt_gtest_smoke.dir/blt_gtest_smoke.o -c /home/kyan2/ascent/src/blt/tests/smoke/blt_gtest_smoke.cpp",
+  "file": "/home/kyan2/ascent/src/blt/tests/smoke/blt_gtest_smoke.cpp"
+}
+]

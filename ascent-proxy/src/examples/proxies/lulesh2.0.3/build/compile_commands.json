@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/build",
+  "command": "/usr/bin/c++  -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-DUSE_MPI=1 -fopenmp\" -o CMakeFiles/lulesh_par.dir/lulesh.o -c /home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh.cc",
+  "file": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh.cc"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/build",
+  "command": "/usr/bin/c++  -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-DUSE_MPI=1 -fopenmp\" -o CMakeFiles/lulesh_par.dir/lulesh-comm.o -c /home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh-comm.cc",
+  "file": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh-comm.cc"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/build",
+  "command": "/usr/bin/c++  -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-DUSE_MPI=1 -fopenmp\" -o CMakeFiles/lulesh_par.dir/lulesh-viz.o -c /home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh-viz.cc",
+  "file": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh-viz.cc"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/build",
+  "command": "/usr/bin/c++  -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-DUSE_MPI=1 -fopenmp\" -o CMakeFiles/lulesh_par.dir/lulesh-util.o -c /home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh-util.cc",
+  "file": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh-util.cc"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/build",
+  "command": "/usr/bin/c++  -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-DUSE_MPI=1 -fopenmp\" -o CMakeFiles/lulesh_par.dir/lulesh-init.o -c /home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh-init.cc",
+  "file": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh-init.cc"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/build",
+  "command": "/usr/bin/c++    -Wall -Wextra   -fPIE \"-DUSE_MPI=0 -fopenmp\" -o CMakeFiles/lulesh_ser.dir/lulesh.o -c /home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh.cc",
+  "file": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh.cc"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/build",
+  "command": "/usr/bin/c++    -Wall -Wextra   -fPIE \"-DUSE_MPI=0 -fopenmp\" -o CMakeFiles/lulesh_ser.dir/lulesh-comm.o -c /home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh-comm.cc",
+  "file": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh-comm.cc"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/build",
+  "command": "/usr/bin/c++    -Wall -Wextra   -fPIE \"-DUSE_MPI=0 -fopenmp\" -o CMakeFiles/lulesh_ser.dir/lulesh-viz.o -c /home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh-viz.cc",
+  "file": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh-viz.cc"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/build",
+  "command": "/usr/bin/c++    -Wall -Wextra   -fPIE \"-DUSE_MPI=0 -fopenmp\" -o CMakeFiles/lulesh_ser.dir/lulesh-util.o -c /home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh-util.cc",
+  "file": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh-util.cc"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/build",
+  "command": "/usr/bin/c++    -Wall -Wextra   -fPIE \"-DUSE_MPI=0 -fopenmp\" -o CMakeFiles/lulesh_ser.dir/lulesh-init.o -c /home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh-init.cc",
+  "file": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/lulesh-init.cc"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/build/blt/thirdparty_builtin/googletest/googletest",
+  "command": "/usr/bin/c++ -DGTEST_HAS_DEATH_TEST=0 -I/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/include -I/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest  -Wall -Wextra   -fPIC -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.o -c /home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/build/blt/thirdparty_builtin/googletest/googletest",
+  "command": "/usr/bin/c++ -DGTEST_HAS_DEATH_TEST=0 -I/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/include -I/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest  -Wall -Wextra   -fPIC -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.o -c /home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/lulesh2.0.3/build/blt/tests/smoke",
+  "command": "/usr/bin/c++ -DGTEST_HAS_DEATH_TEST=0 -I/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/include  -Wall -Wextra   -fPIE -o CMakeFiles/blt_gtest_smoke.dir/blt_gtest_smoke.o -c /home/kyan2/ascent/src/blt/tests/smoke/blt_gtest_smoke.cpp",
+  "file": "/home/kyan2/ascent/src/blt/tests/smoke/blt_gtest_smoke.cpp"
+}
+]

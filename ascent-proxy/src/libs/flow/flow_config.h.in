@@ -1,0 +1,23 @@
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
+// Copyright (c) Lawrence Livermore National Security, LLC and other Ascent
+// Project developers. See top-level LICENSE AND COPYRIGHT files for dates and
+// other details. No copyright assignment is required to contribute to Ascent.
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
+
+
+//-----------------------------------------------------------------------------
+///
+/// file: flow_config.h
+///
+//-----------------------------------------------------------------------------
+
+#ifndef FLOW_CONFIG_H
+#define FLOW_CONFIG_H
+
+#cmakedefine FLOW_PYTHON_ENABLED  "@PYTHON_FOUND@"
+
+
+#endif
+
+
+

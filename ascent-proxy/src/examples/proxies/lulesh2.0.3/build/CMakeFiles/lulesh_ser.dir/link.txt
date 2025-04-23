@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra   -rdynamic CMakeFiles/lulesh_ser.dir/lulesh.o CMakeFiles/lulesh_ser.dir/lulesh-comm.o CMakeFiles/lulesh_ser.dir/lulesh-viz.o CMakeFiles/lulesh_ser.dir/lulesh-util.o CMakeFiles/lulesh_ser.dir/lulesh-init.o -o lulesh_ser  -lascent 

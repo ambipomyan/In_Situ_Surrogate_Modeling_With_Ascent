@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra   -rdynamic -pthread CMakeFiles/blt_mpi_smoke.dir/blt_mpi_smoke.o -o ../../../tests/blt_mpi_smoke  -Wl,-rpath,/usr/lib/x86_64-linux-gnu/openmpi/lib /usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so /usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi_cxx.so 

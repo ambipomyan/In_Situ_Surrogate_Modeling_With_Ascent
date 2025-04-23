@@ -1,0 +1,125 @@
+
+last_known_time: 1.77654691530402e-05
+cycle: 
+  1: 
+    type: "int"
+    value: 1
+    time: 3.87608741911043e-06
+  2: 
+    type: "int"
+    value: 2
+    time: 8.52739232204296e-06
+  3: 
+    type: "int"
+    value: 3
+    time: 1.01216822616175e-05
+  4: 
+    type: "int"
+    value: 4
+    time: 1.14530381181628e-05
+  5: 
+    type: "int"
+    value: 5
+    time: 1.26398905964495e-05
+  6: 
+    type: "int"
+    value: 6
+    time: 1.37419370308364e-05
+  7: 
+    type: "int"
+    value: 7
+    time: 1.47896991059329e-05
+  8: 
+    type: "int"
+    value: 8
+    time: 1.58017235912005e-05
+  9: 
+    type: "int"
+    value: 9
+    time: 1.67905686626868e-05
+  10: 
+    type: "int"
+    value: 10
+    time: 1.77654691530402e-05
+max_energy: 
+  1: 
+    value: 11699988.1481481
+    type: "double"
+    time: 3.87608741911043e-06
+  2: 
+    value: 10273685.4769504
+    type: "double"
+    time: 8.52739232204296e-06
+  3: 
+    value: 9738586.53452665
+    type: "double"
+    time: 1.01216822616175e-05
+  4: 
+    value: 9262056.87070911
+    type: "double"
+    time: 1.14530381181628e-05
+  5: 
+    value: 8826075.23142602
+    type: "double"
+    time: 1.26398905964495e-05
+  6: 
+    value: 8419754.6732735
+    type: "double"
+    time: 1.37419370308364e-05
+  7: 
+    value: 8037824.16813994
+    type: "double"
+    time: 1.47896991059329e-05
+  8: 
+    value: 7677114.49740389
+    type: "double"
+    time: 1.58017235912005e-05
+  9: 
+    value: 7335464.01443074
+    type: "double"
+    time: 1.67905686626868e-05
+  10: 
+    value: 7011263.32799164
+    type: "double"
+    time: 1.77654691530402e-05
+cycle() > 5: 
+  1: 
+    value: 0
+    type: "bool"
+    time: 3.87608741911043e-06
+  2: 
+    value: 0
+    type: "bool"
+    time: 8.52739232204296e-06
+  3: 
+    value: 0
+    type: "bool"
+    time: 1.01216822616175e-05
+  4: 
+    value: 0
+    type: "bool"
+    time: 1.14530381181628e-05
+  5: 
+    value: 0
+    type: "bool"
+    time: 1.26398905964495e-05
+  6: 
+    value: 1
+    type: "bool"
+    time: 1.37419370308364e-05
+  7: 
+    value: 1
+    type: "bool"
+    time: 1.47896991059329e-05
+  8: 
+    value: 1
+    type: "bool"
+    time: 1.58017235912005e-05
+  9: 
+    value: 1
+    type: "bool"
+    time: 1.67905686626868e-05
+  10: 
+    value: 1
+    type: "bool"
+    time: 1.77654691530402e-05

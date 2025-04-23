@@ -1,0 +1,30 @@
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
+// Copyright (c) Lawrence Livermore National Security, LLC and other Ascent
+// Project developers. See top-level LICENSE AND COPYRIGHT files for dates and
+// other details. No copyright assignment is required to contribute to Ascent.
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
+
+
+//-----------------------------------------------------------------------------
+///
+/// file: t_config.hpp
+///
+//-----------------------------------------------------------------------------
+
+#ifndef ASCENT_T_CONFIG_HPP
+#define ASCENT_T_CONFIG_HPP
+
+//-----------------------------------------------------------------------------
+//
+// #define test source and bin dir
+//
+//-----------------------------------------------------------------------------
+
+#define ASCENT_T_SRC_DIR   "@ASCENT_T_SRC_DIR@"
+#define ASCENT_T_BIN_DIR   "@ASCENT_T_BIN_DIR@"
+#define ASCENT_T_DATA_DIR  "@ASCENT_T_DATA_DIR@"
+
+#endif
+
+
+

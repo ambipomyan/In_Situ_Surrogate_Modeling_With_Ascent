@@ -1,0 +1,12 @@
+#An example of using an relay extract to save the published mesh to the file system.
+
+- 
+  action: "add_extracts"
+  extracts: 
+    e1: 
+      type: "relay"
+      params: 
+        path: "/Users/harrison37/Work/alpine/ascent/build-debug/tests/_output/tout_hd5f_mesh"
+        protocol: "blueprint/mesh/hdf5"
+- 
+  action: "execute"

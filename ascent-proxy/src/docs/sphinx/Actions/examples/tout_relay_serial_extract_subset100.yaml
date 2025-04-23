@@ -1,0 +1,15 @@
+#An example of using a relay extract to save a subset of the data.
+
+- 
+  action: "add_extracts"
+  extracts: 
+    e1: 
+      type: "relay"
+      params: 
+        path: "/Users/harrison37/Work/alpine/ascent/build-debug/tests/_output/tout_relay_serial_extract_subset"
+        protocol: "blueprint/mesh/hdf5"
+        fields: 
+          - "braid"
+          - "radial"
+- 
+  action: "execute"

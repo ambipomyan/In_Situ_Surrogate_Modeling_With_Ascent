@@ -1,0 +1,107 @@
+[
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/kripke/. -I/home/kyan2/ascent/src/examples/proxies/kripke/tools -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-D PARALLEL\" -o CMakeFiles/kripke_par.dir/Kripke/Directions.o -c /home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Directions.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Directions.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/kripke/. -I/home/kyan2/ascent/src/examples/proxies/kripke/tools -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-D PARALLEL\" -o CMakeFiles/kripke_par.dir/Kripke/Grid.o -c /home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Grid.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Grid.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/kripke/. -I/home/kyan2/ascent/src/examples/proxies/kripke/tools -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-D PARALLEL\" -o CMakeFiles/kripke_par.dir/Kripke/Kernel.o -c /home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Kernel.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Kernel.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/kripke/. -I/home/kyan2/ascent/src/examples/proxies/kripke/tools -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-D PARALLEL\" -o CMakeFiles/kripke_par.dir/Kripke/Layout.o -c /home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Layout.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Layout.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/kripke/. -I/home/kyan2/ascent/src/examples/proxies/kripke/tools -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-D PARALLEL\" -o CMakeFiles/kripke_par.dir/Kripke/Subdomain.o -c /home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Subdomain.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Subdomain.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/kripke/. -I/home/kyan2/ascent/src/examples/proxies/kripke/tools -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-D PARALLEL\" -o CMakeFiles/kripke_par.dir/Kripke/Sweep_Solver.o -c /home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Sweep_Solver.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Sweep_Solver.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/kripke/. -I/home/kyan2/ascent/src/examples/proxies/kripke/tools -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-D PARALLEL\" -o CMakeFiles/kripke_par.dir/Kripke/ParallelComm.o -c /home/kyan2/ascent/src/examples/proxies/kripke/Kripke/ParallelComm.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/kripke/Kripke/ParallelComm.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/kripke/. -I/home/kyan2/ascent/src/examples/proxies/kripke/tools -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-D PARALLEL\" -o CMakeFiles/kripke_par.dir/Kripke/Timing.o -c /home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Timing.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Timing.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/kripke/. -I/home/kyan2/ascent/src/examples/proxies/kripke/tools -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-D PARALLEL\" -o CMakeFiles/kripke_par.dir/Kripke/Kernel/Kernel_3d_GDZ.o -c /home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Kernel/Kernel_3d_GDZ.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Kernel/Kernel_3d_GDZ.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/kripke/. -I/home/kyan2/ascent/src/examples/proxies/kripke/tools -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-D PARALLEL\" -o CMakeFiles/kripke_par.dir/Kripke/Kernel/Kernel_3d_DGZ.o -c /home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Kernel/Kernel_3d_DGZ.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Kernel/Kernel_3d_DGZ.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/kripke/. -I/home/kyan2/ascent/src/examples/proxies/kripke/tools -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-D PARALLEL\" -o CMakeFiles/kripke_par.dir/Kripke/Kernel/Kernel_3d_ZDG.o -c /home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Kernel/Kernel_3d_ZDG.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Kernel/Kernel_3d_ZDG.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/kripke/. -I/home/kyan2/ascent/src/examples/proxies/kripke/tools -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-D PARALLEL\" -o CMakeFiles/kripke_par.dir/Kripke/Kernel/Kernel_3d_DZG.o -c /home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Kernel/Kernel_3d_DZG.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Kernel/Kernel_3d_DZG.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/kripke/. -I/home/kyan2/ascent/src/examples/proxies/kripke/tools -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-D PARALLEL\" -o CMakeFiles/kripke_par.dir/Kripke/Kernel/Kernel_3d_ZGD.o -c /home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Kernel/Kernel_3d_ZGD.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Kernel/Kernel_3d_ZGD.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/kripke/. -I/home/kyan2/ascent/src/examples/proxies/kripke/tools -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-D PARALLEL\" -o CMakeFiles/kripke_par.dir/Kripke/Kernel/Kernel_3d_GZD.o -c /home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Kernel/Kernel_3d_GZD.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/kripke/Kripke/Kernel/Kernel_3d_GZD.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/kripke/. -I/home/kyan2/ascent/src/examples/proxies/kripke/tools -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-D PARALLEL\" -o CMakeFiles/kripke_par.dir/Kripke/ParallelComm/BlockJacobiComm.o -c /home/kyan2/ascent/src/examples/proxies/kripke/Kripke/ParallelComm/BlockJacobiComm.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/kripke/Kripke/ParallelComm/BlockJacobiComm.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/kripke/. -I/home/kyan2/ascent/src/examples/proxies/kripke/tools -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-D PARALLEL\" -o CMakeFiles/kripke_par.dir/Kripke/ParallelComm/SweepComm.o -c /home/kyan2/ascent/src/examples/proxies/kripke/Kripke/ParallelComm/SweepComm.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/kripke/Kripke/ParallelComm/SweepComm.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/kripke/. -I/home/kyan2/ascent/src/examples/proxies/kripke/tools -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-D PARALLEL\" -o CMakeFiles/kripke_par.dir/tools/kripke.o -c /home/kyan2/ascent/src/examples/proxies/kripke/tools/kripke.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/kripke/tools/kripke.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build",
+  "command": "/usr/bin/c++  -I/home/kyan2/ascent/src/examples/proxies/kripke/. -I/home/kyan2/ascent/src/examples/proxies/kripke/tools -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/kyan2/ascent/install/conduit-v0.9.2/include/conduit -I/home/kyan2/ascent/install/ascent-checkout/include/ascent  -Wall -Wextra   -fPIE \"-D PARALLEL\" -o CMakeFiles/kripke_par.dir/tools/testKernels.o -c /home/kyan2/ascent/src/examples/proxies/kripke/tools/testKernels.cpp",
+  "file": "/home/kyan2/ascent/src/examples/proxies/kripke/tools/testKernels.cpp"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build/blt/thirdparty_builtin/googletest/googletest",
+  "command": "/usr/bin/c++ -DGTEST_HAS_DEATH_TEST=0 -I/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/include -I/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest  -Wall -Wextra   -fPIC -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.o -c /home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build/blt/thirdparty_builtin/googletest/googletest",
+  "command": "/usr/bin/c++ -DGTEST_HAS_DEATH_TEST=0 -I/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/include -I/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest  -Wall -Wextra   -fPIC -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.o -c /home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/kyan2/ascent/src/examples/proxies/kripke/build/blt/tests/smoke",
+  "command": "/usr/bin/c++ -DGTEST_HAS_DEATH_TEST=0 -I/home/kyan2/ascent/src/blt/thirdparty_builtin/googletest/googletest/include  -Wall -Wextra   -fPIE -o CMakeFiles/blt_gtest_smoke.dir/blt_gtest_smoke.o -c /home/kyan2/ascent/src/blt/tests/smoke/blt_gtest_smoke.cpp",
+  "file": "/home/kyan2/ascent/src/blt/tests/smoke/blt_gtest_smoke.cpp"
+}
+]

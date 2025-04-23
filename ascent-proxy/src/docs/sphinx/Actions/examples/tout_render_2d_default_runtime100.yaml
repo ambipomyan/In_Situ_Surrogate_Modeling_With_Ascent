@@ -1,0 +1,11 @@
+#An example rendering a 2d field.
+
+- 
+  action: "add_scenes"
+  scenes: 
+    scene1: 
+      plots: 
+        plt1: 
+          type: "pseudocolor"
+          field: "braid"
+      image_prefix: "/Users/harrison37/Work/alpine/ascent/build-debug/tests/_output/tout_render_2d_default_runtime"

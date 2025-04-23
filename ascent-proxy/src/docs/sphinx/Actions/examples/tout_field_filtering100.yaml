@@ -1,0 +1,11 @@
+#An example of filtering fields not present in the actions file.
+
+- 
+  action: "add_scenes"
+  scenes: 
+    s1: 
+      plots: 
+        p1: 
+          type: "pseudocolor"
+          field: "braid"
+      image_prefix: "/Users/harrison37/Work/alpine/ascent/build-debug/tests/_output/tout_field_filtering"

@@ -1,0 +1,8 @@
+
+-
+  action: "add_extracts"
+  extracts:
+    e1:
+      type: "python"
+      params:
+        file: "auto_mem.py"
